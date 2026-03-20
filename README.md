@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **Live demo of agentic workflow solving Accord Project's template authoring barrier**
-
+**This one needs google ai studio api keys **
 ##  Quick Start (30 seconds)
 ```bash
 # Clone & install
