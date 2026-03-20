@@ -1,0 +1,7 @@
+crewai
+google-genai
+python-dotenv
+re
+json
+time
+subprocess32
